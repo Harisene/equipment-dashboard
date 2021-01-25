@@ -19,7 +19,7 @@ npm start
 ```
 http://localhost:3000/
 ```
-#### Dashboard
+#### **Dashboard**
 ![dashboard](https://user-images.githubusercontent.com/33250282/105706360-7377c080-5f37-11eb-836a-e5a7d85610d6.JPG)
 - page size can be changed using the `dropdown`.
 - chart can be sorted based on `equipment type` and `operations` count. `Equipement type` is sorted in ascending order. `Operations` is sorted in descending order. You can change the order type from `./src/utils/sort.js`. 
